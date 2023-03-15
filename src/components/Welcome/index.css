@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.heading {
+  color: #f0bb03;
+  font-weight: bold;
+  font-size: 45px;
+  text-align: center;
+}
+.para {
+  color: #ffffff;
+  font-size: 25px;
+}
+.butcont {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.but {
+  border-width: 0px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  color: #1e293b;
+  text-align: center;
+  height: 6vh;
+  font-family: bree serif;
+}
